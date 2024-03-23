@@ -294,3 +294,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     Path(args.run_dir).mkdir(parents=True, exist_ok=True)
     experiment(config=vars(args))
+    

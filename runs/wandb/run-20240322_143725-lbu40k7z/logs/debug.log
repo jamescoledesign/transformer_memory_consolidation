@@ -1,0 +1,27 @@
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_setup.py:_flush():76] Current SDK version is 0.16.4
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_setup.py:_flush():76] Configure stats pid to 11808
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_setup.py:_flush():76] Loading settings from C:\Users\james\.config\wandb\settings
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_setup.py:_flush():76] Loading settings from C:\Users\james\Dev-windows\transformer_memory_consolidation\wandb\settings
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'main.py', 'program_abspath': 'C:\\Users\\james\\Dev-windows\\transformer_memory_consolidation\\main.py', 'program': 'main.py'}
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_setup.py:_flush():76] Applying login settings: {'api_key': '***REDACTED***'}
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_init.py:_log_setup():526] Logging user logs to ./runs\wandb\run-20240322_143725-lbu40k7z\logs\debug.log
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_init.py:_log_setup():527] Logging internal logs to ./runs\wandb\run-20240322_143725-lbu40k7z\logs\debug-internal.log
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_init.py:init():566] calling init triggers
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {'vocab_size': 10, 'n_a': 5, 'rnn_act_ftn': 'tanh', 'd_rnn': 128, 'd_model': 512, 'd_embed': 256, 'd_head': 64, 'd_inner': 2048, 'div_val': 4, 'pre_lnorm': True, 'n_layer': 2, 'n_head': 8, 'mem_len': 32, 'ext_len': 0, 'tgt_len': 32, 'same_length': False, 'attn_type': 1, 'clamp_len': 0, 'dropout': 0.1, 'dropatt': 0.0, 'untie_r': True, 'correction': False, 'init': 'normal', 'init_range': 0.01, 'proj_init_std': 0.01, 'init_std': 0.02, 'layer_norm_epsilon': 1e-05, 'ffn_act_ftn': 'nmda', 'alpha': 0.1, 'beta': 1, 'side_len': 11, 'run_dir': './runs', 'proj_name': 'predictive coding', 'group_name': 'nmda_experiments', 'num_envs': 32, 'batch_size': 512, 'steps_per_epoch': 64, 'learning_rate': 0.0001, 'max_grad_norm': 0.25, 'training_epoch': 200, 'warmup_epoch': 0, 'log_image_interval': 10, 'seed': 0, 'gpu': 0, 'log_to_wandb': True, 'walk_length': 2048}
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_init.py:init():616] starting backend
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_init.py:init():620] setting up manager
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-03-22 14:37:25,159 INFO    MainThread:11808 [wandb_init.py:init():628] backend started and connected
+2024-03-22 14:37:25,175 INFO    MainThread:11808 [wandb_init.py:init():720] updated telemetry
+2024-03-22 14:37:25,238 INFO    MainThread:11808 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-03-22 14:37:25,902 INFO    MainThread:11808 [wandb_run.py:_on_init():2262] communicating current version
+2024-03-22 14:37:26,443 INFO    MainThread:11808 [wandb_run.py:_on_init():2271] got version response 
+2024-03-22 14:37:26,443 INFO    MainThread:11808 [wandb_init.py:init():804] starting run threads in backend
+2024-03-22 14:37:27,001 INFO    MainThread:11808 [wandb_run.py:_console_start():2241] atexit reg
+2024-03-22 14:37:27,001 INFO    MainThread:11808 [wandb_run.py:_redirect():2096] redirect: wrap_raw
+2024-03-22 14:37:27,001 INFO    MainThread:11808 [wandb_run.py:_redirect():2161] Wrapping output streams.
+2024-03-22 14:37:27,001 INFO    MainThread:11808 [wandb_run.py:_redirect():2186] Redirects installed.
+2024-03-22 14:37:27,002 INFO    MainThread:11808 [wandb_init.py:init():847] run started, returning control to user process
