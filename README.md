@@ -42,7 +42,7 @@ pip install wandb tqdm transformers
 
 ## GPU activation with CUDA
 
-The provided installation instructions do not appear to install CUDA automatically, which is which is recommended for using PyTorch with a NVIDIA GPU on a Windows machine. If `torch.device()` does not detect the GPU, it will default to using the CPU, drastically increasing training time. Installing PyTorch and this project's dependencies individually solved this issue. 
+The provided installation instructions do not appear to install CUDA automatically, which is recommended for using PyTorch with a NVIDIA GPU on a Windows machine. If `torch.device()` does not detect the GPU, it will default to using the CPU, drastically increasing training time. Installing PyTorch and this project's dependencies individually solved this issue. 
 
 PyTorch installation instructions are available [here](https://pytorch.org/get-started/locally/).
 
