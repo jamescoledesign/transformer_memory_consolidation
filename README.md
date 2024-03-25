@@ -2,8 +2,9 @@
 ---
 ## Introduction
 
-This code is for the runs in our work, "Transformer as a hippocampal memory consolidation model based on NMDAR-inspired nonlinearity". In our work, all runs are performed on a single
-NVIDIA TITAN V GPU.
+This is a fork of [kdkyum]'s (https://github.com/kdkyum/transformer_memory_consolidation) code for "[Transformer as a hippocampal memory consolidation model based on NMDAR-inspired nonlinearity](https://proceedings.neurips.cc/paper_files/paper/2023/file/2f1eb4c897e63870eee9a0a0f7a10332-Paper-Conference.pdf)" (Kim et al., 2023). 
+
+We created this repo as part of a project for the _Computational Modeling Methods in Behavioral and Brain Sciences_ course at the University of Texas at Dallas. We hope to evaluate the performance of the the NMDAα activation function by replicating the methods of the original authors. We also hope to test the generalizability of the model by exploring the future work proposed in the paper. 
 
 ## Installation
 
