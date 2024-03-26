@@ -1,8 +1,6 @@
-
----
 ## Introduction
 
-This is a fork of [kdkyum]'s (https://github.com/kdkyum/transformer_memory_consolidation) code for "[Transformer as a hippocampal memory consolidation model based on NMDAR-inspired nonlinearity](https://proceedings.neurips.cc/paper_files/paper/2023/file/2f1eb4c897e63870eee9a0a0f7a10332-Paper-Conference.pdf)" (Kim et al., 2023). 
+This is a fork of [kdkyum](https://github.com/kdkyum/transformer_memory_consolidation)'s code for "Transformer as a hippocampal memory consolidation model based on NMDAR-inspired nonlinearity" [(Kim et al., 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/2f1eb4c897e63870eee9a0a0f7a10332-Paper-Conference.pdf). 
 
 We created this repo as part of a project for the _Computational Modeling Methods in Behavioral and Brain Sciences_ course at the University of Texas at Dallas. We hope to evaluate the performance of the the NMDAα activation function by replicating the methods of the original authors. We also hope to test the generalizability of the model by exploring the future work proposed in the paper. 
 
@@ -42,7 +40,7 @@ pip install wandb tqdm transformers
 
 ## GPU activation with CUDA
 
-The provided installation instructions do not appear to install CUDA automatically, which is which is recommended for using PyTorch with a NVIDIA GPU on a Windows machine. If `torch.device()` does not detect the GPU, it will default to using the CPU, drastically increasing training time. Installing PyTorch and this project's dependencies individually solved this issue. 
+The provided installation instructions do not appear to install CUDA automatically, which is recommended when using PyTorch with a NVIDIA GPU on a Windows machine. If `torch.device()` does not detect the GPU, it will default to using the CPU, drastically increasing training time. Installing PyTorch and this project's dependencies individually solved this issue. 
 
 PyTorch installation instructions are available [here](https://pytorch.org/get-started/locally/).
 
