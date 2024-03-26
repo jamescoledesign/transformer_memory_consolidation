@@ -1,5 +1,3 @@
-
----
 ## Introduction
 
 This is a fork of [kdkyum](https://github.com/kdkyum/transformer_memory_consolidation)'s code for "Transformer as a hippocampal memory consolidation model based on NMDAR-inspired nonlinearity" [(Kim et al., 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/2f1eb4c897e63870eee9a0a0f7a10332-Paper-Conference.pdf). 
