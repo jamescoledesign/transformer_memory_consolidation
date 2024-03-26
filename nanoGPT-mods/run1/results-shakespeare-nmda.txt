@@ -1,0 +1,234 @@
+$ python sample.py --out_dir=out-shakespeare-char
+Overriding: out_dir = out-shakespeare-char
+number of parameters: 10.65M
+Loading meta from data\shakespeare_char\meta.pkl...
+C:\Users\james\Dev-windows\transformer_memory_consolidation\nanoGPT-master\model.py:1051: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at C:\cb\pytorch_1000000000000\work\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:263.)
+  y = torch.nn.functional.scaled_dot_product_attention(q, k, v, attn_mask=None, dropout_p=self.dropout if self.training else 0, is_causal=True)
+
+
+Clown:
+So you will be anger than a way? you are agreedy
+within the army prepared: but you do repair now
+to you, not put you him: therefore, I beseech you
+with my father hate late: therefore, I cannot be
+pity and pelper to you.
+
+AUTOLYCUS:
+Nay, go along.
+
+Clown:
+But I can patiently; but you do call those no good
+Certain to the purpose. I have stood to show much a band
+to the son; I know you will not be at an arrent. So I
+am good fortuned and advance.
+
+ESCALUS:
+I thank you the very prince you, si
+---------------
+
+Men pardon me, you shall have hang him to see
+What you would have deserved to his nature.
+
+ISABELLA:
+I fear the words of the castle that would have desire
+To stay unpartly of this poor maidenhead
+Whereof the lady of the Claudio knows:
+The duke is it out.
+
+LARTIUS:
+Mark your voices!
+
+CLAUDIO:
+Is long?
+
+LUCIO:
+Then?
+
+CLAUDIO:
+Well, my lord.
+
+CLAUDIO:
+Away, sweet I may to do it is determined.
+
+CLAUDIO:
+Ay, and swear that I have learn'd to keep you him
+For fair Tybalt, therefore it was for the gates
+---------------
+
+Messenger:
+The seal'd of the noise. She is not a dog,
+And take nothing contract to meet me with you.
+
+BRUTUS:
+Ay, you have heard the people,
+And stoop with your honours to their cause.
+
+MENENIUS:
+I pray you, sir, they well deny.
+
+CORIOLANUS:
+They cannot tell you a fool, we shall be their with
+those consuls but to the tribunes?
+
+SICINIUS:
+Give you him; and what you think he was come so?
+
+MENENIUS:
+Here in the gods that bear you make him the poor man?
+
+Third Senator:
+If he had heard you would spea
+---------------
+
+The state of your kinsman's reason.
+
+First Senator:
+I scarcely there; the which if you dispraise you
+But prevail'd with your friendship
+Of the senate word. The larger I was that been
+A most inform that which he I have beherd yet:
+But when he hath a thing crown'd i' the crown,
+Should nothing the people of his love and there is he
+From false the purple of his trade.
+
+POLIXENES:
+Hang you, my lord;
+I am going, and you have been so old inform
+That is brief that 'twere no man, the other heavy
+Is all u
+---------------
+
+Be even but when they lost the very time
+When they do go think; they say it were not
+From the noble.
+
+CORIOLANUS:
+I'll talk.
+If my liege, my mother be revolted
+In some power that never nor for mine honour's own peace,
+That my senseless eye shall be here buried.
+
+COMINIUS:
+Farewell;
+So you should not discover you, from many out
+Merculis better than my care: she came from the sea in
+The objects of the thing herald: she was old confessed
+The Volscians and Marcius denies.
+
+MARCIUS:
+I took the man of
+---------------
+
+
+MENENIUS:
+He hath heard you not, he must call the gentlewoman
+For him are now; no, he was wind your honour
+Than you are: if it be any man remembers
+With no more foul fit of bloody men out, speed not
+But by us; therefore you have been so,
+On three receit office and noble the prison,
+So doth as to make him far off. But yet, you may call me
+Their pluckets on the morning's valour. So, if I
+had drunk our blood, he shall have got your will?
+
+BRUTUS:
+We do deny him so.
+
+BRUTUS:
+Well, I would not he st
+---------------
+
+She would be married to make fill these wars quickly from their
+times for the worst.
+
+MENENIUS:
+One fearful maids: which then the general points are
+to thy sticks?
+
+CORIOLANUS:
+I know not what's these?
+
+CORIOLANUS:
+He that, sir, sir, ho!
+
+CORIOLANUS:
+No, charge up your tongue.
+
+CORIOLANUS:
+Sir, the man is but lord.
+
+MENENIUS:
+Has never
+He from the people.
+
+Second Senator:
+Never heard, they shall lose the wound, whose earth
+The fielded times what can not call me from the time
+Of one sleep and the
+---------------
+
+ladies of death, winter'd, or with no state,
+Stand devision to the king, to the dead moon,
+Whose heavens spend the morning wrong'd love,
+In their diviness was kneel'd dull dangerous;
+And so it shall be afrended of rather:
+The sun is full of death of our deeded likes.
+
+DUKE OF YORK:
+Give me report to my life, the king and my noble lord.
+
+DUKE OF YORK:
+I am not the gods have I set my friends.
+
+DUCHESS OF YORK:
+I would you were as the little world as dishonour,
+Where you will shake your suitors you
+---------------
+
+GLOUCESTER:
+What, what say you?
+
+CLARENCE:
+Why, my gracious lord?
+
+GLOUCESTER:
+
+KING EDWARD IV:
+Now, had you met her stall of the life;
+And if I mean, I had wait on the morning.
+
+LADY GREY:
+O you charged with the Christians!
+The ancient flowers that so was a law,
+If we be heard in him, my love liege,
+When I was nothing will depose his majesty.
+
+CAPULET:
+Well, sir; if his innocence may be sent at once.
+
+CAPULET:
+You shall dear your mother to be a king,
+With the hopeful grave to my brother's blood
+---------------
+
+Hath he not set dread:
+I needs nor ne'er so, I warrant thee,
+He would come to make a careful tapster's royalty.
+
+RUTLAND:
+These citizens, my lords.
+
+CLIFFORD:
+Be thou with his hard of France and his wisdom
+To whose wounds I see him are contented
+To seek him hide and fetch him now to you.
+
+SLY:
+My lord, I would to come to the duke.
+
+KING HENRY VI:
+Thou tell'st me dead; yet is not a widow,
+That title of my true sons, but it is dead,
+If I am true. Thou art for I am again,
+Thou canst hurl: but my re
+---------------

@@ -2,3 +2,6 @@
 
 # VS Code settings
 /.vscode
+
+# nanoGPT
+/nanoGPT-master

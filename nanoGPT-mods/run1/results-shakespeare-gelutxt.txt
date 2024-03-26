@@ -1,0 +1,204 @@
+$ python sample.py --out_dir=out-shakespeare-char
+Overriding: out_dir = out-shakespeare-char
+number of parameters: 10.65M
+Loading meta from data\shakespeare_char\meta.pkl...
+C:\Users\james\Dev-windows\transformer_memory_consolidation\nanoGPT-master\model.py:1051: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at C:\cb\pytorch_1000000000000\work\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:263.)
+  y = torch.nn.functional.scaled_dot_product_attention(q, k, v, attn_mask=None, dropout_p=self.dropout if self.training else 0, is_causal=True)
+
+
+Clown:
+So you will be obey'd.
+
+Shepherd:
+A gentleman to me talk
+here, happy sworn, and account of ever.
+
+POLIXENES:
+You have been some further of miles in thee. You
+will content to come by you.
+
+AUTOLYCUS:
+What is it? no, no.
+
+Clown:
+Why, you are news?
+
+Shepherd:
+'Twere no more desert.
+
+Clown:
+Heaven and so we have been satisfied with him; now he hath
+heard her by hence, which we may not stay put on
+him, after the wholesome old harm officer and bearing
+her brothers. Camillo, I will confess to y
+---------------
+
+Menenius, I must there's hand.
+
+CORIOLANUS:
+You have made me looked what I can so little born.
+
+Third Citizen:
+I thank you.
+
+Marshal:
+This stronger than my lord, if you can so strange
+throw the next sixteen years not content; as I have
+no deserved more than the bearest grew of my war soul.
+
+CORIOLANUS:
+What lack you? I had rather to know it well.
+
+MENENIUS:
+Doth you this office of your general time is not
+To what you come out.
+
+BRUTUS:
+Come, come you to you.
+
+SICINIUS:
+I pray you, come, know you
+---------------
+
+Men that I bear
+The proceeding of the Mowbray, and send the Tower,
+The which is good new with minds and ends
+Till this soon to my tongue did colour the gates.
+
+NORTHUMBERLAND:
+But, as I see you so know, but I am my brother
+Shall make the haweful town, and give you for Henry's mother;
+For I was come to our brother Tower, murderer.
+Ah, and George, why, what noble Catesby Buckingham and Saint Alban's Catesby,
+That most beauty have waste to the town Three tender there,
+And so it is not a little to t
+---------------
+
+The strong-knits upon him; and, is he
+The buttock of the coronation of our heads,
+But now the streets courtesy of my Lord's work;
+His life are scorn rid our hatred arms,
+Since for courtehing by a sin's ghostly sea,
+Now like the state was all breath the Earl of God's,
+And the sins of the court is the banish'd Bolingbroke,
+And like infection of Clarence' drops,
+The argument of England with the state grief of the world,
+The comfort, through and his brother Duke of Gloucester;
+Who for he would have
+---------------
+
+Be even but when they had not been
+For ingrateful manners. I shall say, but the enemy
+Hath connidence it now, and I'll talk off of it
+To take my power from the cowards in the duke.
+
+PAULINA:
+Here it my life or elsewhere I can tell:
+Here, no more, sir:
+Pray you, madam, sir; I can was your assisting to you
+have coming the purpose. Has you not slain your knees,
+But my presence see here wears upon my whole buried
+And show my old confession awake,
+If it confess her defended with a prosperous child
+Fo
+---------------
+
+
+MENENIUS:
+Heavens!
+
+CORIOLANUS:
+Beseech you good Citizen: you must dispatch you, sir,
+Wherein you had for your voices: but I remember
+She shall condemn you and sleep: if you protest,
+Be seen, and less you for Rome
+To have more strength to a kingdom, and must hear
+Their issue and proceeding at the war.
+
+Provost:
+I will, if you return your companions i' the king:
+The blood your lady is at all the town, the rest,
+The heavens with your lamentation to your fire,
+Meaning forthwith so high you.
+
+AUTOL
+---------------
+
+She was seen unhappy days gold,
+And make, wherein the royal officer kings
+With five their suspectation. There is the colour
+To the senseless corphanies true that death
+Are in the red man of her days and dead salt death:
+What shall not we be professed with her eyes and forget,
+But not death to this linealth stronger here,
+But in this ladies all the day strongers with a wine.
+In the hope of Paris for Henry a foot,
+Have enter'd the fearful appear of the city gates.
+
+QUEEN MARGARET:
+And leave Hastin
+---------------
+
+lady, when they is not fearers.
+
+LEONTES:
+You are not born
+Their gentle people steed.
+
+PAULINA:
+Indeed, I am sorry made you good:
+But if I have been seen in the head of liberty,
+I have heard the bowel of your mouth, the bay
+Have no loud to colour your own eyes i' the realm,
+Being the sting report of what we still had after
+To be the vantage of the burial state,
+Intending which the tongue of the sun,
+The dickless of peace for the burning silver.
+You have left and show'd your hate against the maid
+---------------
+
+GLOUCESTER:
+What, what say you?
+
+CLARENCE:
+Why, my gracious lord?
+
+GLOUCESTER:
+
+KING EDWARD IV:
+Now, had you made you for peaceful face.
+
+CLARENCE:
+Now I love it not, Bolingbroke? I speak:
+You must live to see your honour, if you were now,
+To have you owe me, and I would choose it again.
+
+QUEEN MARGARET:
+But I fear, I had a kingdom supposed,
+Your husband blessed before your grace, my lord,
+As your friends be pardon'd by love, your words at hand.
+
+LADY ANNE:
+Ay, the rather renown'd with these arm
+---------------
+
+How chance it is regarded himself?
+
+DUKE VINCENTIO:
+Do you better best for your grace?
+
+Provost:
+But is not your grace?
+
+DUKE VINCENTIO:
+As I know, master.
+
+DUKE VINCENTIO:
+He hath no more wronger than you have spoken and your
+tongues, you look on the duke headly eyes
+to speak their frey tongues, that your mother
+could with content your deserves of them the varyer
+with their general. Let you this lady place again
+sing either dearth, thou'rt too. Last to fail you,
+What, we'll to make you them are
+---------------
