@@ -3,5 +3,11 @@
 # VS Code settings
 /.vscode
 
+<<<<<<< HEAD
 # nanoGPT
 /nanoGPT-master
+=======
+# Datasets
+/dataset
+# /nanoGPT-master
+>>>>>>> 48d35fd76ba7930d50e630fd9d4f28a3be77a1cd
