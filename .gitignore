@@ -2,3 +2,7 @@
 
 # VS Code settings
 /.vscode
+
+# Datasets
+/dataset
+# /nanoGPT-master
